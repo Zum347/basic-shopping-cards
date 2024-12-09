@@ -32,4 +32,8 @@ Bu uygulama, ürünleri alışveriş sepetine eklemek ve sepetin içeriğini gö
 
 # Gif
 
+<<<<<<< HEAD
 ![Proje Tanıtım GIF'i](assets/Kayıt-2024-12-09-195153.gif)
+=======
+![Proje Tanıtım GIF'i](assets/Kayıt-2024-12-09-195153.gif)
+>>>>>>> 5546b30e9a78306c5125cfa15e06651e77a969aa
