@@ -30,3 +30,6 @@ Bu uygulama, ürünleri alışveriş sepetine eklemek ve sepetin içeriğini gö
 
 - Sepet görünümünü açıp kapama.
 
+# Gif
+
+![Proje Tanıtım GIF'i](assets/Kayıt-2024-12-09-195153.gif)
